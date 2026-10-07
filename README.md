@@ -3,7 +3,7 @@
 Audio demo for *Tokens Change, Structure Endures: Spectral Watermarking for Generated Speech*
 by Kanghwi Lee, Kyeongseok Jeong and Jeongmin Liu.
 
-Live page: https://USERNAME.github.io/redwing-demo/
+Live page: https://hwiora.github.io/redwing-demo/
 
 Static page (`index.html`, `style.css`, `assets/`, `audio/`) served with GitHub Pages.
 
